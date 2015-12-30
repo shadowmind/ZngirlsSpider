@@ -2,7 +2,7 @@
 爬取zngirls.com网站图片的小爬虫
 
 在Windows环境下使用Eclipse + PyDev插件开发，并使用了BeautifulSoup包。
-
+模块划分借鉴imooc的python教程
 
 抓取网站：http://www.zngirls.com/
 当前版本只能抓取指定人的信息和照片。
