@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/spider/EmailUtil.py=utf-8
+encoding//src/spider/FileManager.py=utf8
+encoding//src/spider/HtmlDownloader.py=utf8
+encoding//src/spider/Html_Parser.py=utf8
+encoding//src/spider/SpiderMain.py=utf-8
+encoding//src/spider/UrlManager.py=utf-8
