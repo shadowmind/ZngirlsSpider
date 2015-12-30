@@ -1,9 +1,10 @@
 # ZngirlsSpider
 爬取zngirls.com网站图片的小爬虫
 
-在Windows环境下使用Eclipse + PyDev插件开发
-抓取网站：http://www.zngirls.com/
+在Windows环境下使用Eclipse + PyDev插件开发，并使用了BeautifulSoup包。
 
+
+抓取网站：http://www.zngirls.com/
 当前版本只能抓取指定人的信息和照片。
 抓取过程：
 1，抓取指定人的个人主页，获取姓名，个人资料及相册地址；
